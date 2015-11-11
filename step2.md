@@ -2,4 +2,4 @@
 ### Building a Flexibile Model for Urban Visioning in Grasshopper
 ---
 
-### Step 2
+### Step Two: Create a community boundary based a given resource boundary
