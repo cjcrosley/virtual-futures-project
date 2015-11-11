@@ -1,6 +1,7 @@
 # Summary
 
 * [About](README.md)
+* [Terms](terms.md)
 * [Step One](step1.md)
 * [Step Two](step2.md)
 * [Step Three](step3.md)
@@ -11,5 +12,4 @@
 * [Step Eight](step8.md)
 * [Step Nine](step9.md)
 * [Step Ten](step10.md)
-* [Terms](terms.md)
 
