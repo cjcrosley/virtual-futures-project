@@ -10,7 +10,9 @@ The goal of this model is to use the visual language of 3-D modeling to design a
 
 This paper will break down and explain the logical steps and processes used in building a fractal urban community in grasshopper. 
 
-![The 10 steps of the Grasshopper script](Community 13 Key Final.png)
+>The Grasshopper model in its entirety.
+
+![](Community 13 Key Final.png)
 
 **The 10 Steps in the Grasshopper Model**
 1. Create dimensional module and fractal steps.
