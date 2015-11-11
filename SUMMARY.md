@@ -1,7 +1,6 @@
 # Summary
 
 * [About](README.md)
-* [Terms](terms.md)
 * [Step One](step1.md)
 * [Step Two](step2.md)
 * [Step Three](step3.md)
