@@ -2,4 +2,4 @@
 ### Building a Flexibile Model for Urban Visioning in Grasshopper
 ---
 
-### Step 8
+### Step Eight: Layer Block levels to meet target density
