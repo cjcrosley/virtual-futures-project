@@ -2,4 +2,4 @@
 ### Building a Flexibile Model for Urban Visioning in Grasshopper
 ---
 
-### Step 10
+### Step Ten: Create visible 3-D geometry
