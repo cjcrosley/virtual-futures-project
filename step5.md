@@ -2,4 +2,4 @@
 ### Building a Flexibile Model for Urban Visioning in Grasshopper
 ---
 
-### Step 5
+### Step Five: Discard specific Rooms and Blocks
