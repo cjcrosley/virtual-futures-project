@@ -1,5 +1,5 @@
 # Summary
 
 * [About](README.md)
-* [First Step](chapter1.md)
+* [Step One](chapter1.md)
 
