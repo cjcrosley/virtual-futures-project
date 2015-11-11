@@ -3,3 +3,14 @@
 ---
 
 ### Terms:
+
+Module:
+
+Room:
+
+Block:
+
+
+Resource Boundary:
+
+Community Boundary:
