@@ -2,4 +2,4 @@
 ### Building a Flexibile Model for Urban Visioning in Grasshopper
 ---
 
-### Step 4
+### Step Four: Step down the fractal grid to create Blocks in an urban grid
