@@ -12,7 +12,7 @@ This paper will break down and explain the logical steps and processes used in b
 
 >The Grasshopper model in its entirety.
 
-![](Community 13 Key Final.png)
+![![](Community 13 Key Final.png)](Community 13 Key Final.png)
 
 **The 10 Steps in the Grasshopper Model**
 1. Create dimensional module and fractal steps.
