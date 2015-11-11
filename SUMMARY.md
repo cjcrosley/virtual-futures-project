@@ -10,5 +10,5 @@
 * [Step Seven](step7.md)
 * [Step Eight](step8.md)
 * [Step Nine](step9.md)
-* Step Ten
+* [Step Ten](step10.md)
 
