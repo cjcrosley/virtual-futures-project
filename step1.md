@@ -2,5 +2,5 @@
 ### Building a Flexibile Model for Urban Visioning in Grasshopper
 ---
 
-### Step 1
+### Step One: Create dimensional module and fractal steps
 
