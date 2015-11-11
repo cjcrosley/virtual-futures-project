@@ -9,4 +9,5 @@
 * [Step Six](step6.md)
 * [Step Seven](step7.md)
 * [Step Eight](step8.md)
+* Step Nine
 
