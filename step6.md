@@ -2,4 +2,4 @@
 ### Building a Flexibile Model for Urban Visioning in Grasshopper
 ---
 
-### Step 6
+### Step Six: Project urban grid onto a given topography
