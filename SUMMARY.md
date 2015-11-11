@@ -2,5 +2,5 @@
 
 * [About](README.md)
 * [Step One](step1.md)
-* Step Two
+* [Step Two](step2.md)
 
