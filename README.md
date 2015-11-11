@@ -4,7 +4,7 @@
 
 ### Overview
 
-Using the mutually-understandable visual language of 3-D modeling to design alternate future scenarios and interventions for social, economic, and environmental transformations.
+Using visual language of 3-D modeling to design alternate future scenarios and interventions for social, economic, and environmental transformations.
 
 This paper will break down and explain the logical steps and processes used in building a fractal urban community in grasshopper. 
 
