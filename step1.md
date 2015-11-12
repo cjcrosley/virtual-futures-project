@@ -73,6 +73,8 @@ $$
 
 In Grasshopper, it looks like this:
 
+![](images/Community Dimensions1.png)
+
 Now that we have calculated the boundary dimensions of the Community we can start creating the fractal grid.
 
 ###Citations:
