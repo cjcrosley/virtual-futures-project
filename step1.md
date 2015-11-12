@@ -32,7 +32,7 @@ To examples of fractals that relate well to what we're doing here are the [Seirp
 
 The Seirpinsky Square is constructed by subdividing a square into a grid of 9, discarding the center, and repeating the pattern to the remaining squares in the grid. In this way, the pattern can repeat infinitely and is present at every scale. 
 
-#### The Fractal Grid
+#### The Basic Inputs
 
 In this project we will use a similar principle to construct our fractal grid and, consequently, the urban grid. 
 
@@ -59,7 +59,21 @@ $$
 YAxis\ Dim. = Cell\ Prime \times Base ^ {Exponent}
 $$
 
+The exponent variables Room, Block, and Community represent specific numbers of iterations with Room being the first after Cell, followed by Block, and lastly Community. These variables are additive, so Block Exponent represents the number of iterations required to get to one from the lower step:
 
+- Room Exponent: the number of iterations to go from Cell to Room
+- Block Exponent: the number of iterations to go from Room to Block
+- Community Exponent: the number of iterations to go from Block to Community
+
+To find the total Y-axis dimension of the Community, we need to add the successive exponents to reach it: 
+
+$$
+Community\ YAxis\ Dim. = Cell\ Prime \times Base ^ {Room+Block+Community}
+$$
+
+In Grasshopper, it looks like this:
+
+Now that we have calculated the boundary dimensions of the Community we can start creating the fractal grid.
 
 ###Citations:
 
