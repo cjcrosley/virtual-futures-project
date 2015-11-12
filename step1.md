@@ -37,9 +37,9 @@ The Seirpinsky Square is constructed by subdividing a square into a grid of 9, d
 In this project we will use a similar principle to construct our fractal grid and, consequently, the urban grid.
 
 
-
-
-
+$$
+Cell Prime \times Base 
+$$
 
 
 
