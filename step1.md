@@ -4,7 +4,7 @@
 
 ### Step One: Create dimensional Cell and iteration pattern
 
-![](images/step1 final.png)
+![](images/step1.png)
 
 #### Summary
 This step will define the locations and rotations of the communities in the model. It will also determine the size and extent of the underlying fractal grid that will be used to construct the communities. 
