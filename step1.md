@@ -82,7 +82,7 @@ In Grasshopper, calculating the Community dimensions looks like this:
 
 And the modules look like this:
 
-
+![](images/Cell and Room.PNG)](Cell and Room.PNG)
 
 Now that we have calculated the modular dimensions of the Community we can start creating the fractal grid.
 
