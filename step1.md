@@ -30,6 +30,9 @@ To examples of fractals that relate well to what we're doing here are the [Seirp
 
 
 
+The Seirpinsky Square is constructed by subdividing a square into a grid of 9, discarding the center, and repeating the pattern to the remaining squares in the grid. 
+
+
 
 
 
