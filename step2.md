@@ -25,8 +25,8 @@ This is where the underlying fractal ordering is created. A loop is creating in 
 - Look for supplied planes.
 
 - Construct a grid of rectangles at planes supplied with:
-
- - Size X and Size y -  The X and Y-axis dimensions of the rectangles to be created.
+ - Extent X and Extent Y - The number of rectangles to construct in the grid in the X and Y-axis. Use the Base variable, just as we used Base to construct the overall dimension.
+ - Size X and Size y -  The X and Y-axis dimensions of the rectangles to be created. Notice the similarities to the equation we used to construct the Community module. In this case, for each iteration we are creating a grid of rectangles with dimensions that will diminish with each iteration.
 
 $$
 SizeX= {Community\ Length \over {Base^{Count+1}}}
@@ -35,3 +35,11 @@ $$
 $$
 SizeY= {Community\ Width \over {Base^{Count+1}}}
 $$
+
+- Find the origin plane of each created rectangle and assign the rotation of the supplied planes.
+- Output modified planes
+- Output the resulting grid of rectangles.
+
+The loop is completed by feeding the resulting planes back into the loop. 
+
+### Results
