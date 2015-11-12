@@ -24,5 +24,18 @@ This step will define the locations and rotations of the communities in the mode
 
 #### A Primer on Fractals
 
-"A fractal is a natural phenomenon or a mathematical set that exhibits a repeating pattern that displays at every scale. It is also known as expanding symmetry or evolving symmetry"
+>"A fractal is a natural phenomenon or a mathematical set that exhibits a repeating pattern that displays at every scale. It is also known as expanding symmetry or evolving symmetry" [^1]
+
+To examples of fractals that relate well to what we're doing here are the [Seirpinski Carpet](https://en.wikipedia.org/wiki/Sierpinski_carpet) and the [Apollonian Gasket](https://en.wikipedia.org/wiki/Apollonian_gasket).
+
+
+
+
+
+
+
+###Citations:
+
+[^1] [ Wikipedia, Fractal.](https://en.wikipedia.org/wiki/Fractal)
+
 
