@@ -58,3 +58,5 @@ $$
 ###Citations:
 
 [^1] [ Wikipedia, Fractal.](https://en.wikipedia.org/wiki/Fractal)
+
+[^2] [Prime Factorization](http://www.mathsisfun.com/prime-factorization.html)
