@@ -40,9 +40,11 @@ We will start by defining a cubic module or cell that will serve as the "prime f
 
 The Cell is defined by is X, Y, and Z-axis in feet. These variables are called Cell Prime X, Cell Prime Y, and Cell Prime Z, see inputs above. We will use X=3, Y=2, and Z=1. 
 
-The Base variable represents the number of times the Cell will be duplicated in each iteration of the pattern.  
+The Base variable represents the number of times the Cell will be duplicated in each iteration of the pattern. We will use Base = 2; for each iteration, the number of Cells in the X and Y-Axis double. If Base = 3, they would triple. 
 
 The Room, Block, and Community Exponent variables indicate the number of iterations the pattern will go through in order to define a Room, Block, or Community.
+
+Therefore, we can find the number of cells along any axis by:
 
 $$
 Number\ of\ Prime\ Cells = Base ^ {Exponent}
@@ -52,7 +54,7 @@ $$
 Number\ of\ Prime\ Cells = 2^{1,\ 2,\ 3,\ 4...} = 2,\ 4,\ 8,\ 16...
 $$
 
-To find an X-axis or Y-axis dimension the Cell Prime value is multiplied the total number of repetitions: 
+And to find an X-axis or Y-axis dimension the Cell Prime value is multiplied the total number of repetitions: 
 $$
 YAxis\ Dim. = Cell\ Prime \times Base ^ {Exponent}
 $$
