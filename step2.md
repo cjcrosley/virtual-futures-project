@@ -5,3 +5,33 @@
 ### Step Two: Build up a fractal grid of Rooms
 
 ![](step2.PNG)
+
+#### Summary
+
+This step will utilize looping nodes provided by Anenome, the Grasshopper Plugin, to create a fractal grid pattern.
+
+#### Inputs
+
+- **Number of Iterations** - Block Exponent + Community Exponent - 1. The Room Exponent is not included because we will be working at the Room module. The model could be taken to the Cell level, but the added resolution is not useful for this exercise. Subtract 1 because Grasshopper starts at 0 not 1.
+- **Community Planes** - Created in step on. Contains the rotation of the community and is offset from the origin. 
+- **Community Length** - X-axis dimension of the Community.
+- **Community Width** - Y-axis dimension of the Community.
+- **Base** - From Step 1.
+
+### Recursion
+
+This is where the underlying fractal ordering is created. A loop is creating in Grasshopper that will complete the specified Number of Iterations. The process inside the loop is as follows:
+
+- Look for supplied planes.
+
+- Construct a grid of rectangles at planes supplied with:
+
+ - Size X and Size y -  The X and Y-axis dimensions of the rectangles to be created.
+
+$$
+SizeX= {Community\ Length \over {Base^{Count+1}}}
+$$
+<br>
+$$
+SizeY= {Community\ Width \over {Base^{Count+1}}}
+$$
