@@ -40,7 +40,7 @@ We will also define the Primary Cell dimensions and the size of the Room, Block,
 
 We will start by defining a cubic module or cell that will serve as the "prime factor" [^2] of dimensions in the project. While, these dimensions do not need to be prime numbers for the model to work, it is useful to think of them as prime numbers conceptually. You could also compare this module to a cell, a pixel, an atom, or a grain of sand. It is the smallest unit. 
 
-The Cell is defined by its X, Y, and Z-axis in feet. These variables are called Cell Prime X, Cell Prime Y, and Cell Prime Z, see inputs above. We will use X=3, Y=2, and Z=1. 
+The Cell is defined by its X, Y, and Z-axis in feet. These variables are called Cell Prime X, Cell Prime Y, and Cell Prime Z, see inputs above. We will use X=9, Y=6, and Z=3. 
 
 The Base variable represents the number of times the Cell will be duplicated in each iteration of the pattern. We will use Base = 2; for each iteration, the number of Cells in the X and Y-Axis double. If Base = 3, they would triple with each iteration. 
 
@@ -80,7 +80,11 @@ In Grasshopper, calculating the Community dimensions looks like this:
 
 ![](images/Community Dimensions1.png)
 
-Now that we have calculated the boundary dimensions of the Community we can start creating the fractal grid.
+And the modules look like this:
+
+
+
+Now that we have calculated the modular dimensions of the Community we can start creating the fractal grid.
 
 ###Citations:
 
