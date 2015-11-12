@@ -1,10 +1,12 @@
 # A Fractal Community
-### Building a Flexibile Model for Urban Visioning in Grasshopper
+### Building a Flexibile Model for Urban Visioning 
 ---
 
 ### Overview
 
-The goal of this model is to use the visual language of 3-D modeling to design and illustrate alternate future scenarios and interventions for social, economic, and environmental transformations. All while still maintaining the flexibility and data manipulation enabled by grasshopper. As a result, explorations that would traditionally take days to model and evaluate can be done in minutes. 
+The goal of this model is to use the visual language of 3-D modeling to design and illustrate alternate future scenarios and interventions for social, economic, and environmental transformations. Traditional modeling techniques would require hours or days to model and evaluate each iteration in the design process. By using Grasshopper for Rhino, these iterations take minutes and evaluation and analysis can become an integral part of the design process. 
+
+Grasshopper also provides the ability to access and manipulate data in a way that would be impossible traditionally. For example, Grasshopper can be used to calculate the required height of each building in the community given a target density and a priority weight for each urban block. This would be impossible to do by hand and would require iteration and subjective guesswork to come close. The task takes less than 1 second in Grasshopper.
 
 ### Outline
 
