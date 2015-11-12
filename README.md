@@ -18,7 +18,7 @@ This paper will break down and explain the logical steps and processes used in b
 
 **The 10 Steps in the Grasshopper Model**
 1. Create dimensional Cell and iteration pattern.
-2. Build up a fractal grid of Rooms from steps 1 and 2.
+2. Build up a fractal grid of Rooms.
 3. Create a community boundary based a given resource boundary.
 4. Step down the fractal grid to create Blocks in an urban grid.
 5. Discard specific Rooms and Blocks.
