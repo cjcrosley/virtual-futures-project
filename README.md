@@ -1,3 +1,6 @@
+<script src="https://use.typekit.net/xsm2ahq.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
 # A Fractal Community
 ## Building a Flexibile Model for Urban Visioning 
 ---
@@ -28,6 +31,3 @@ This paper will break down and explain the logical steps and processes used in b
 9. Calculate renewable electricity generation.
 10. Create visible 3-D geometry.
 
-
-<script src="https://use.typekit.net/xsm2ahq.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
