@@ -2,7 +2,7 @@
 ## Building a Flexibile Model for Urban Visioning
 ---
 
-### Step One: Create dimensional module and fractal steps
+### Step One: Create dimensional Cell and iteration pattern
 
 ![](images/step1 final.png)
 
