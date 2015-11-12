@@ -44,5 +44,3 @@ In this project we will use a similar principle to construct our fractal grid an
 ###Citations:
 
 [^1] [ Wikipedia, Fractal.](https://en.wikipedia.org/wiki/Fractal)
-
-
