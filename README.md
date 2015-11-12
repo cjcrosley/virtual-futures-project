@@ -1,5 +1,5 @@
 # A Fractal Community
-### Building a Flexibile Model for Urban Visioning 
+## Building a Flexibile Model for Urban Visioning 
 ---
 
 ### Overview
