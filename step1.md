@@ -38,7 +38,7 @@ In this project we will use a similar principle to construct our fractal grid an
 
 
 $$
-Cell Prime \times Base 
+Cell Prime \times Base ^ {Exponent}
 $$
 
 
