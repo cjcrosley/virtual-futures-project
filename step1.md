@@ -16,7 +16,7 @@ This step will define the locations and rotations of the communities in the mode
 - **Primary Rotation** - A list of numbers representing degrees of rotation corresponding to each of the communities in the model. 
 - **Community Centers** - A list of points representing the center point of each community.
 - **Cell Prime X** - The base modular dimension of the x-axis.
-- **Cell Prime Y)** - The base modular dimension of the y-axis.
+- **Cell Prime Y** - The base modular dimension of the y-axis.
 - **Base** - The base number for the fractal doubling.
 - **Room Exponent** - The exponent used to calculate the Room size from the Cell size.
 - **Block Exponent** - The exponent used to calculate the Block size from the Room size.
