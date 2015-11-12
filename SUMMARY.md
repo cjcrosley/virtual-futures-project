@@ -1,3 +1,6 @@
+<script src="https://use.typekit.net/xsm2ahq.js"></script>
+<script>try{Typekit.load({ async: true });}catch(e){}</script>
+
 # Summary
 
 * [About](README.md)
