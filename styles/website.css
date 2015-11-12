@@ -1,8 +1,12 @@
 /* CSS for website */
-h1, h3 {
+h1 {
     color:#488ca7;
+    line-height: 50%;
 }
 
 h2 {
     color:#555555;
+}
+h1 {
+    color:#488ca7;
 }
