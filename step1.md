@@ -34,13 +34,15 @@ The Seirpinsky Square is constructed by subdividing a square into a grid of 9, d
 
 #### The Basic Inputs
 
-In this project we will use a similar principle to construct our fractal grid and, consequently, the urban grid. 
+In this step, we will first create a plane representing each community with Community Centers as the origin and Primary Rotation as the plane's orientation.
+
+We will also define the Primary Cell dimensions and the size of the Room, Block, and Community modules. 
 
 We will start by defining a cubic module or cell that will serve as the "prime factor" [^2] of dimensions in the project. While, these dimensions do not need to be prime numbers for the model to work, it is useful to think of them as prime numbers conceptually. You could also compare this module to a cell, a pixel, an atom, or a grain of sand. It is the smallest unit. 
 
-The Cell is defined by is X, Y, and Z-axis in feet. These variables are called Cell Prime X, Cell Prime Y, and Cell Prime Z, see inputs above. We will use X=3, Y=2, and Z=1. 
+The Cell is defined by its X, Y, and Z-axis in feet. These variables are called Cell Prime X, Cell Prime Y, and Cell Prime Z, see inputs above. We will use X=3, Y=2, and Z=1. 
 
-The Base variable represents the number of times the Cell will be duplicated in each iteration of the pattern. We will use Base = 2; for each iteration, the number of Cells in the X and Y-Axis double. If Base = 3, they would triple. 
+The Base variable represents the number of times the Cell will be duplicated in each iteration of the pattern. We will use Base = 2; for each iteration, the number of Cells in the X and Y-Axis double. If Base = 3, they would triple with each iteration. 
 
 The Room, Block, and Community Exponent variables indicate the number of iterations the pattern will go through in order to define a Room, Block, or Community.
 
@@ -61,17 +63,20 @@ $$
 
 The exponent variables Room, Block, and Community represent specific numbers of iterations with Room being the first after Cell, followed by Block, and lastly Community. These variables are additive, so Block Exponent represents the number of iterations required to get to one from the lower step:
 
-- Room Exponent: the number of iterations to go from Cell to Room
-- Block Exponent: the number of iterations to go from Room to Block
-- Community Exponent: the number of iterations to go from Block to Community
+- Room Exponent: the number of iterations to go from Cell to Room. Use 2.
+- Block Exponent: the number of iterations to go from Room to Block. Use 4.
+- Community Exponent: the number of iterations to go from Block to Community. Use 3.
 
-To find the total Y-axis dimension of the Community, we need to add the successive exponents to reach it: 
+To find the total Y-axis dimensions of the Block and Community modules, we need to add the successive exponents to reach it: 
 
+$$
+Block\ YAxis\ Dim. = Cell\ Prime \times Base ^ {Room+Block}
+$$
 $$
 Community\ YAxis\ Dim. = Cell\ Prime \times Base ^ {Room+Block+Community}
 $$
 
-In Grasshopper, it looks like this:
+In Grasshopper, calculating the Community dimensions looks like this:
 
 ![](images/Community Dimensions1.png)
 
