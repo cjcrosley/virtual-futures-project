@@ -1,12 +1,5 @@
 {
     
-    "plugins" : ["katex", "cssjs"]
-    
-    "pluginsConfig": {
-        "addcssjs": {
-         "js": ["js/custom.js"],
-        
-        }
-    }
+    "plugins" : ["katex"]
     
 }
