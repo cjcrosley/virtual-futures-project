@@ -4,7 +4,7 @@
 
 ### Step Two: Build up a fractal grid of Rooms
 
-![](step2.PNG)
+![](images/step2.PNG)
 
 #### Summary
 
