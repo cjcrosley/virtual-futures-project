@@ -1,6 +1,6 @@
 {
     
-    "plugins" : ["katex", "typekit@0.0.2"]
+    "plugins" : ["katex", "typekit"]
     
     "pluginsConfig": {
     "typekit" : {
