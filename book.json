@@ -2,7 +2,7 @@
     
     "plugins" : ["katex", "typekit@0.0.2"]
     
-    pluginsConfig: {
+    "pluginsConfig": {
     "typekit" : {
         "kitID": "xxxXXX"
     }
