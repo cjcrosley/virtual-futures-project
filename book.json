@@ -1,7 +1,7 @@
 {
     
     "plugins" : ["katex", "typekit"]
-    "pluginsConfig": {
+    pluginsConfig : {
         "typekit" : {
             "kitID": "xsm2ahq"
       }
