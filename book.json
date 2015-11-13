@@ -1,5 +1,5 @@
 {
     
-    "plugins" : ["katex"]
+    "plugins" : ["katex", "typekit@0.0.2"]
     
 }
