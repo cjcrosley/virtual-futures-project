@@ -1,6 +1,7 @@
 {
     
-    "plugins" : ["katex", "typekit"]
+    "plugins" : ["katex", "typekit"],
+    
     "pluginsConfig" : {
        
     }
