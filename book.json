@@ -3,6 +3,8 @@
     "plugins" : ["katex", "typekit"],
     
     "pluginsConfig" : {
-       
+        "typekit" : {
+            "kitID" : "xsm2ahq"
+        }
     }
 }
