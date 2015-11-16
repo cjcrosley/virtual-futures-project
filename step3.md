@@ -36,6 +36,8 @@ The following script calculates the Air Density Factor based on the elevation of
 
 
 ### Solar Power
+The solar power calculation leverages hourly output data from [PVWatts](http://pvwatts.nrel.gov/). Input 1 as DC System Size and leave all other variables unchanged. On the Results page, below "User Comments" download Hourly Results. We will reference the resulting .CSV file. 
+
 
 
 ### A Target Boundary
