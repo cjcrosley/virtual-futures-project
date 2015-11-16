@@ -4,7 +4,7 @@
 
 ### Terms:
 
-# Module:
+# Cell:
 The smallest module. Contains the base dimensions that will form the framework of the community.  
 
 Room:
