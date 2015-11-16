@@ -47,3 +47,7 @@ The loop is completed by feeding the resulting planes back into the loop.
 That is a bit technical, but what it will create is a nested series of 2 x 2 grids, each one inside the other. In grasshopper it looks like this:
 
 ![](images/step2-fractal.PNG)
+
+We can see that with every iteration a new level is created `{A;B}(i)` becomes `{A;B;C}(i)`. Each item is grafted and becomes a branch of 4 items. Here are 4 interatons shown in Rhino.
+
+![](images/fractalcombined.png)
