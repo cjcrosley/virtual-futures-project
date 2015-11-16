@@ -38,6 +38,11 @@ The following script calculates the Air Density Factor based on the elevation of
 ### Solar Power
 The solar power calculation leverages hourly output data from [PVWatts](http://pvwatts.nrel.gov/). Input 1 as DC System Size and leave all other variables unchanged. On the Results page, below "User Comments" download Hourly Results. We will reference the resulting .CSV file. 
 
+To calculate Hourly AC System Output in kW multiply Resource Area, Sq Ft to Meters coefficient, Panel Efficiency, and AC System Output from PVWatts. Sum the results to find Total Annual System Output. See below.
+
+![](images/Solar Power.PNG)
+
+
 
 
 ### A Target Boundary
