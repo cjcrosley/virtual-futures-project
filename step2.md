@@ -46,4 +46,4 @@ The loop is completed by feeding the resulting planes back into the loop.
 
 That is a bit technical, but what it will create is a nested series of 2 x 2 grids, each one inside the other. In grasshopper it looks like this:
 
-
+![](images/step2-fractal.PNG)
