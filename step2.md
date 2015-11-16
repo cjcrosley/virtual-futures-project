@@ -20,12 +20,12 @@ This step will utilize looping nodes provided by Anenome, the Grasshopper Plugin
 
 ### Recursion
 
-This is where the underlying fractal ordering is created. A loop is creating in Grasshopper that will complete the specified Number of Iterations. The process inside the loop is as follows:
+This is where the underlying fractal ordering is created. A loop is created in Grasshopper that will complete the specified Number of Iterations. The process inside the loop is as follows:
 
 - Look for supplied planes.
 
 - Construct a grid of rectangles at planes supplied with:
- - Extent X and Extent Y - The number of rectangles to construct in the grid in the X and Y-axis. Use the Base variable, just as we used Base to construct the overall dimension.
+ - Extent X and Extent Y - The number of rectangles to construct in the grid in the X and Y-axis. Use the Base variable, just as we used Base to construct the overall dimension. In the case that Base = 2, a 2 x 2 grid will be created.
  - Size X and Size y -  The X and Y-axis dimensions of the rectangles to be created. Notice the similarities to the equation we used to construct the Community module. In this case, for each iteration we are creating a grid of rectangles with dimensions that will diminish with each iteration.
 
 $$
@@ -43,3 +43,7 @@ $$
 The loop is completed by feeding the resulting planes back into the loop. 
 
 ### Results
+
+That is a bit technical, but what it will create is a nested series of 2 x 2 grids, each one inside the other. In grasshopper it looks like this:
+
+
