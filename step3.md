@@ -5,15 +5,17 @@
 ### Step Three: Create a community boundary based on a given resource boundary
 
 #### Summary
-One of the overarching premises of this project is to create communities that are sustinable. This requires creating a resource budget to represent available resources, and then sizing the community so that consumption stays within that budget. 
+One of the overarching premises of this project is to create communities that are sustainable. This requires creating a resource budget to represent available resources, and then sizing the community so that consumption stays within that budget. 
 
 This process requires a series of assumptions about the community that may need to be adjusted over the course of several iterations. This is because we must create a boundary before we design the community, and that design will determine the accuracy of the assumptions we made. 
 
 In this chapter we will cover the calculation of electrical generation from PV panels as well as wind turbines. These calculations are estimations and will only be as accurate as the data we provide. 
 
+Both the Wind and Solar Power calculations will be done again in Step 9 with actual data from the modeled community. Those calculations will be much more accurate. The metrics generated here should be considered preliminary.
+
 #### Inputs
 
-- **Target EUI** - EUI is generally represented in kBTU/sf per year. In this model we will represent EUI in kWh/sf per year because the community will not utilize fossil fuels.
+- **Target EUI** - EUI (Energy Use Intensity) is generally represented in kBTU/sf per year. In this model we will represent EUI in kWh/sf per year because the community will not utilize fossil fuels.
 - **Target Density** - This variable represents the number of building floors desired in a given square footage of area.
 - **Resource Radius** - The radius of the Resource Boundary. This boundary will be combined with % of Boundary to calculate the actual resource area.
 - **% of Boundary** - The percentage of the resource circle that will be used for electrical generation.
