@@ -1,7 +1,7 @@
 # Summary
 
 * [About](README.md)
-   * [Terms](GLOSSARY.md)
+   * [Glossary](GLOSSARY.md)
 * [Step One](step1.md)
 * [Step Two](step2.md)
 * [Step Three](step3.md)
