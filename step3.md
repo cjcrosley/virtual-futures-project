@@ -30,8 +30,9 @@ The first step of the Wind Power calculation determines the number of turbines t
 
 Next we will use a method based on the [Wind Energy Payback Period Workbook](www.nrel.gov/wind/docs/spread_sheet_Final.xls) spreadsheet created by NREL, specifically the "Assumptions" tab. 
 
-The follow script calculates the Air Density Factor based on the elevation of the wind turbine hubs. This value is then multiplied by Wind Speed Probability, Power kW, and the number of hours in a year (8,766) to calculate annual kWh production by turbine and wind speed. These values are then summed to generate total annual wind power.
+The following script calculates the Air Density Factor based on the elevation of the wind turbine hubs. This value is then multiplied by Wind Speed Probability, Power kW, and the number of hours in a year (8,766) to calculate annual kWh production by turbine and wind speed. These values are then summed to generate total annual wind power.
 
+![](images/Wind Power.PNG)
 
 
 ### Solar Power
