@@ -1,5 +1,5 @@
 # A Fractal Community
-### Building a Flexibile Model for Urban Visioning in Grasshopper
+## Building a Flexibile Model for Urban Visioning
 ---
 
-### Step Three: Create a community boundary based a given resource boundary
+### Step Three: Create a community boundary based on a given resource boundary
