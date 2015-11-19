@@ -15,5 +15,6 @@ This step will use the 'attractor point' method to group the rooms in the commun
 - Community Exponent
 
 ### Calculate Steps
+In step one, we set the Block and Community Exponents. If we sum these variable 
 
 ### Step Up Loop
