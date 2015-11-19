@@ -14,7 +14,6 @@ This step
 - Block Exponent
 - Community Exponent
 
-
 ### Calculate Steps
 
 ### Step Down Loop
