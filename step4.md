@@ -1,4 +1,3 @@
-# A Fractal Community
 ## Building a Flexibile Model for Urban Visioning 
 ---
 
