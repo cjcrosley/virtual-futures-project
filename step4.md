@@ -1,5 +1,5 @@
 # A Fractal Community
-### Building a Flexibile Model for Urban Visioning in Grasshopper
+## Building a Flexibile Model for Urban Visioning 
 ---
 
 ### Step Four: Step down the fractal grid to create Blocks in an urban grid
