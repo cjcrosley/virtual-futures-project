@@ -3,10 +3,10 @@
 
 ### Step Four: Step down the fractal grid to create Blocks in an urban grid
 
-#### Summary:
+#### Summary
 
 
-#### Inputs:
+#### Inputs
 
 
 ### Calculate Steps
