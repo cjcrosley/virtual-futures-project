@@ -51,9 +51,6 @@ $$
 Community\ Boundary\ Area\ (CBA) = {Energy\ Budget\over EUI\times Density}
 $$
 
-$$
-Community\ Radius = \sqrt{{CBA of\ Boundary}\over x}
-$$
 
 ![](images/Community Boundary Area.PNG)
 
