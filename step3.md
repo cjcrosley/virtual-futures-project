@@ -51,7 +51,5 @@ $$
 Community\ Boundary\ Area\ (CBA) = {Energy\ Budget\over EUI\times Density}
 $$
 
-
 ![](images/Community Boundary Area.PNG)
 
-lk
