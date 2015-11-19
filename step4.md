@@ -15,6 +15,6 @@ This step will use the 'attractor point' method to group the rooms in the commun
 - Community Exponent
 
 ### Calculate Steps
-
+We calculate the distance from the center plane of each room to the center point of the community. If desired, the point could be at any location. 
 
 ### Step Up Loop
