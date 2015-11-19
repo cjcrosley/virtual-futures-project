@@ -16,4 +16,4 @@ This step will use the 'attractor point' method to group the rooms in the commun
 
 ### Calculate Steps
 
-### Step Down Loop
+### Step Up Loop
