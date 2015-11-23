@@ -38,7 +38,7 @@ This is a simple attractor point problem. We would like to discard all rooms wit
 ![](5-transit paths.PNG)
 
 ### Courtyards
-Another simple sorting problem. Discard all rooms with center points within a set of closed curves.
+Another simple sorting problem. Discard all blocks with center points within a set of closed curves. This test could also be applied at the room level to create more complex courtyard shapes.
 
 ![](5-courtyard.PNG)
 
