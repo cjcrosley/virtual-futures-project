@@ -4,3 +4,27 @@
 
 ### Step Five: Discard specific Rooms and Blocks
 
+#### Summary
+
+
+#### Inputs
+
+
+### Block Boundary Rectangles
+
+
+### Pathways
+
+
+### Internal Alleys
+
+
+### Arbitrary Pathways
+
+
+### Courtyards
+
+
+### Growth Boundary
+
+
