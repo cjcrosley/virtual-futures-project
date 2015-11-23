@@ -43,11 +43,11 @@ Another simple sorting problem. Discard all blocks with center points within a s
 ![](5-courtyard.PNG)
 
 ### Growth Boundary
-
+This test is essentially the courtyard test, but it modified specifically to create the growth boundary.
 
 ![](5-growth boundary.PNG)
 
 ### Dispatch by NOR
-
+The final step in this process is to combine all of tests in one additive test. It is important that all of the tests return the desired rooms as False because False = 0 and we must sum all of the tests for each room such that $$\sum tests=0 $$. The rooms that return True are the rooms to keep.
 
 ![](5-urban pattern.PNG)
