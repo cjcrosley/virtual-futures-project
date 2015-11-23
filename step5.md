@@ -12,7 +12,7 @@ Until this point we have been manipulating data and tree structures in a fairly 
 - Room Center Plane
 - Transit Curves
 - Growth Boundary
-- 
+- Total Steps - Room Exponent + Block Exponent
 - Room X-axis Length
 - Room Y-axis Length
 
