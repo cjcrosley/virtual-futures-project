@@ -26,17 +26,26 @@ One set of rooms we would like to discard are the rooms along the boundary recta
 ![](5-street grid.PNG)
 
 ### Internal Alleys
+Next we will create internal alleys. This step will involve creating a diagonal internal pathway instead of creating four smaller blocks. 
 
+![](5-internal alley.PNG)
 
 ### Arbitrary Pathways
 
 
+![](5-transit paths.PNG)
+
 ### Courtyards
 
+
+![](5-courtyard.PNG)
 
 ### Growth Boundary
 
 
+![](5-growth boundary.PNG)
+
 ### Dispatch by NOR
 
 
+![](5-urban pattern.PNG)
