@@ -14,3 +14,10 @@ This step will calculate the number of stories for each room in the block that a
 - Floor to Floor Height
 - Actual Floor Area Budget
 
+### Generate Form
+
+
+### Calculate Number of Stories
+
+
+### Calculate Remaining Floor Area Budget
