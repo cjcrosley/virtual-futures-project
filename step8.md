@@ -30,6 +30,7 @@ This step will calculate the required remaining number of stories for each Block
 - Point - Corresponding Importance Weights
 
 ### Calculate and Combine Weights
+![](images/8-combine weights.PNG)
 
 Calculate distances, remap to `0 to 1` and apply sign and importance variables. Remap the result to be positive while maintaining the width of the domain by subtracting the End of the domain from the Start. Flip the matrix of the list so that `{A}(i)` becomes `{i}(A)`, merge the point and curve lists and select the greater value for each. 
 
