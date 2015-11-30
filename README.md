@@ -14,7 +14,7 @@ This paper will break down and explain the logical steps and processes used in b
 
 >The Grasshopper model in its entirety.
 
-![](images/Community 13 Key Final.png)
+![](images/Community 13 Key.PNG)
 
 **The 10 Steps in the Grasshopper Model**
 1. Create dimensional Cell and iteration pattern.
