@@ -23,3 +23,10 @@ This is accomplished with the four corner points of the center point of each blo
 Calculate the number of stories for each room by projecting the room center point to the created articulation surface. Then round the distance of the projected point to a factor of the Floor to Floor Height and divide by the Floor to Floor Height. The result is an integer that represents the number floors for each Room module in a Block.
 
 ### Calculate Remaining Floor Area Budget
+The remaining Floor Area Budget can be calculated as the total sum of the number of stories for all rooms multiplied by the area of a Room. Then subtract the total from the Actual Area Budget.
+
+$$
+Remaining = Actual - Room Area \times \sum (Floors\ per\ Room)
+$$
+
+
