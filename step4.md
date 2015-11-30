@@ -2,7 +2,7 @@
 ---
 
 ### Step Four: Step down the fractal grid to create Blocks in an urban grid
-
+![](images/4-step down loop.PNG)
 #### Summary
 This step will use the 'attractor point' method to group the rooms in the community into levels based on their distance from the center of the community. It will then use a looping function to step up the fractal pattern until the average of the room levels match the level of the step. 
 
@@ -20,7 +20,7 @@ We calculate the distance from the center plane of each room to the center point
 ### Step Up Loop
 In Step 2 we built up a fractal grid. In this step we will loop through and merge branches from the bottom up to create larger groups of rooms. We will use the desired fractal step list just created to manipulate the Room Planes and Room Rectangles lists. This loop is simply a list management exercise. 
 
-![](4-loop resources.PNG)
+![](images/4-loop resources.PNG)
 
 The challenge in this process is how to determine whether a group of a group of rooms should be merged together or not, and to perform the branch merging only on the required items. 
 
@@ -36,4 +36,4 @@ Now, if a room has a value of 0 in the Desired Fractal Step list, it means that 
 
 The end result is an asymmetrical data tree in which every group of rooms is at the desired level in the tree.
 
-![](4-param viewer.PNG)
+![](images/4-param viewer.PNG)
