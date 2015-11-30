@@ -3,8 +3,8 @@
 ---
 
 ### Step Eight: Layer Block levels to meet target density
-[](images/8-Block Levels.PNG)
+![](images/8-Block Levels.PNG)
 #### Summary
 
 
-#### Inputs!
+#### Inputs
