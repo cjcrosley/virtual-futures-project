@@ -5,7 +5,7 @@
 ### Step Eight: Layer Block levels to meet target density
 ![](images/8-Block Levels.PNG)
 #### Summary
-This step will calculate the required 
+This step will calculate the required remaining number of stories for each Block or Room to meet the total Actual Floor Area Budget. 
 
 #### Inputs
 **Model inputs:**
@@ -28,3 +28,12 @@ This step will calculate the required
 - Point for Density
 - Point - Corresponding Signs (+ / -)
 - Point - Corresponding Importance Weights
+
+### Calculate and Combine Weights
+
+
+### Shift with Galapagos and Normalize to Range
+
+
+### Stats
+
