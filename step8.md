@@ -58,3 +58,4 @@ $$x_i = Individual\ Block\ Values $$
 $$\overline{x}= Average\ of\ Block\ Values$$
 
 $$n = Number\ of\ Blocks\ in\ the\ Community$$
+
