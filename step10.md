@@ -17,7 +17,7 @@ The first step is to array the Room Rectangles vertically according to the Floor
 
 ![](images/10-array.PNG)
 
-
+![](10-baked.PNG)
 
 ### Roofs, Walls, and Floors
 The last step in this model is the creating of the actual surfaces for baking. The creation of ground floors and rooftops simply requires creating a surface from a boundary curve from our Rooftop and first floor lists.
@@ -26,3 +26,4 @@ The creating of walls requires making merged surfaces of all of the Rooms by Flo
 
 ![](images/10-surfaces.PNG)
 
+![](10-baked2.PNG)
