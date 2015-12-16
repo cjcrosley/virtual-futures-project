@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [A Fractal Community](a_fractal_community.md)
 * [A Generative Method](a_generative_method.md)
    * [Step One](step1.md)
    * [Step Two](step2.md)
@@ -13,5 +14,4 @@
    * [Step Nine](step9.md)
    * [Step Ten](step10.md)
 * [A Diverse Future](a_diverse_future.md)
-* [A Fractal Community](a_fractal_community.md)
 
