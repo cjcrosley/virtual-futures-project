@@ -1,1 +1,1 @@
-# A Fractal Community
+# Introduction
