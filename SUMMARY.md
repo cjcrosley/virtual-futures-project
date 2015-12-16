@@ -1,6 +1,6 @@
 # Summary
 
-* [A Fractal Community](README.md)
+* [Introduction](README.md)
 * [A Generative Method](a_generative_method.md)
    * [Step One](step1.md)
    * [Step Two](step2.md)
