@@ -1,7 +1,6 @@
 # Summary
 
 * [About](README.md)
-* [Step Ten](step10.md)
 * [A Generative Method](a_generative_method.md)
    * [Step One](step1.md)
    * [Step Two](step2.md)
@@ -12,5 +11,6 @@
    * [Step Seven](step7.md)
    * [Step Eight](step8.md)
    * [Step Nine](step9.md)
+   * [Step Ten](step10.md)
    * test
 
