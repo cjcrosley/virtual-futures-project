@@ -4,13 +4,13 @@
 
 ### Overview
 
-The goal of this model is to use the visual language of 3-D modeling to design and illustrate alternate future scenarios and interventions for social, economic, and environmental transformations. Traditional modeling techniques would require hours or days to model and evaluate each iteration in the design process. By using Grasshopper for Rhino, these iterations take minutes and evaluation and analysis can become an integral part of the design process. 
+The goal of this model is to use the visual language of 3-D modeling to design and illustrate alternate future scenarios and interventions for social, economic, and environmental transformations. Traditional design process modeling techniques would require hours or days to model and evaluate alternative form and pattern iterations. However, by using Grasshopper for Rhino, such iterations take only minutes to create; enabling their evaluation to become an integral part of the design process. 
 
-Grasshopper also provides the ability to access and manipulate data in a way that would be impossible traditionally. For example, Grasshopper can be used to calculate the required height of each building in the community given a target density and a priority weight for each urban block. This would be impossible to do by hand and would require iteration and subjective guesswork to come close. The task takes less than 1 second in Grasshopper.
+Moreover, Grasshopper provides the ability to access and manipulate data in a way that would be impossible traditionally. For example, Grasshopper can be used to calculate the required height of each building in a community given a target density and a priority weight for each urban block. This would be difficult, if not impossible, to do by hand and would require subjective guesswork to come close to a dependable predictive value. Such tasks take less than 1 second in Grasshopper.
 
 ### Outline
 
-This paper will break down and explain the logical steps and processes used in building a fractal urban community in grasshopper. 
+This paper will explain the logical steps and processes used in building a fractal urban community in grasshopper. 
 
 >The Grasshopper model in its entirety.
 
@@ -28,4 +28,3 @@ This paper will break down and explain the logical steps and processes used in b
 9. Calculate renewable electricity generation.
 10. Create visible 3-D geometry.
 
-test test test test
