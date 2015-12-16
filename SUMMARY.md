@@ -11,5 +11,5 @@
 * [Step Eight](step8.md)
 * [Step Nine](step9.md)
 * [Step Ten](step10.md)
-* A Generative Method
+* [A Generative Method](a_generative_method.md)
 
