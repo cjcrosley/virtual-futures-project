@@ -5,7 +5,7 @@
 ### Step Six: Project urban grid onto a given topography
 ![](images/6-topography.PNG)
 #### Summary
-This step will project both the Block rectangles and Room rectangles to a topography. This model uses a randomly generated topography, but could work just as well with other geometry.
+This step will project both the Block rectangles and Room rectangles to topography. This model uses a randomly generated topography, but could work just as well with other geometry.
 
 #### Inputs
 - Topography
