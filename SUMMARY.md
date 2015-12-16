@@ -13,5 +13,5 @@
    * [Step Nine](step9.md)
    * [Step Ten](step10.md)
 * [A Diverse Future](a_diverse_future.md)
-* A Fractal Community
+* [A Fractal Community](a_fractal_community.md)
 
