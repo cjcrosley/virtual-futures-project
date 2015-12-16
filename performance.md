@@ -5,21 +5,6 @@
 
 
 ##Large Block 
-
-
-
-![](image2.png)
-
-![](image3.png)
-
-![](image4.png)
-
-![](image5.png)
-
-![](image6.png)
-
-![](image7.png)
-
 ###Rotation Analysis
 
 |                        | *Annual Space Cooling (kBTU)* | *Annual Space Heating (kBTU)* |
@@ -50,6 +35,8 @@
 | 42.5                                   | 9,444,059                   | 5,414,962                   | 14,859,021       | (25,086)      | -0.17%                      |
 | 46.5                                   | 9,452,747                   | 5,385,633                   | 14,838,380       | (20,641)      | -0.14%                      |
 
+![](image2.png)
+
 ###Wall R-Value
 
 | Wall R-Value (ft2 h °F/BTU) | Annual Space Cooling (kBTU) | Annual Space Heating (kBTU) | Aggregate (kBTU) | Margin (kBTU) | Marginal Rate (margin/prev) |
@@ -64,6 +51,8 @@
 | 25.6                        | 9,479,995                   | 5,241,123                   | 14,721,118       | (30,747)      | -0.21%                      |
 | 27.8                        | 9,481,479                   | 5,213,820                   | 14,695,299       | (25,819)      | -0.18%                      |
 
+![](image3.png)
+
 ###Glazing U-Factor
 
 | Facade Glazing U-Factor (BTU/ft2 h °F) | Annual Space Cooling (kBTU) | Annual Space Heating (kBTU) | Aggregate (kBTU) | Margin (kBTU) | Marginal Rate (margin/prev) |
@@ -77,6 +66,8 @@
 | 0.28                                   | 9,557,959                   | 5,008,460                   | 14,566,419       | (311,423)     | -2.09%                      |
 | 0.21                                   | 9,626,125                   | 4,616,211                   | 14,242,336       | (324,083)     | -2.22%                      |
 | 0.14                                   | 9,706,055                   | 4,199,683                   | 13,905,738       | (336,598)     | -2.36%                      |
+
+![](image4.png)
 
 ###Glazing Solar Heat Gain Coefficient (SHGC)
 
@@ -93,6 +84,8 @@
 | 0.25                | 9,490,233                   | 5,630,530                   | 15,120,763       | (192,863)     | -1.26%                      |
 | 0.21                | 9,094,897                   | 5,854,538                   | 14,949,435       | (171,328)     | -1.13%                      |
 
+![](image5.png)
+
 ###Glazing Overhead Shading
 
 | Horizontal Projection (ft) | Annual Space Cooling (kBTU) | Annual Space Heating (kBTU) | Aggregate (kBTU) | Margin (kBTU) | Marginal Rate (margin/prev) |
@@ -108,6 +101,8 @@
 | 8.7                        | 8,598,336                   | 6,064,482                   | 14,662,818       | 15,675        | 0.11%                       |
 | 9.8                        | 8,579,457                   | 6,101,431                   | 14,680,888       | 18,070        | 0.12%                       |
 
+![](image6.png)
+
 ###Glazing Vertical Shading
 
 | Vertical Projection (ft) | Annual Space Cooling (kBTU) | Annual Space Heating (kBTU) | Aggregate (kBTU) | Margin (kBTU) | Marginal Rate (margin/prev) |
@@ -122,3 +117,5 @@
 | 7.6                      | 9,315,542                   | 5,668,966                   | 14,984,508       | (3,646)       | -0.02%                      |
 | 8.7                      | 9,307,531                   | 5,673,502                   | 14,981,033       | (3,475)       | -0.02%                      |
 | 9.8                      | 9,299,814                   | 5,677,924                   | 14,977,738       | (3,295)       | -0.02%                      |
+
+![](image7.png)
