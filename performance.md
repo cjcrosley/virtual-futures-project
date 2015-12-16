@@ -22,7 +22,7 @@
 
 ###Rotation Analysis
 
-| * *                    | *Annual Space Cooling (kBTU)* | *Annual Space Heating (kBTU)* |
+|                        | *Annual Space Cooling (kBTU)* | *Annual Space Heating (kBTU)* |
 |------------------------|-------------------------------|-------------------------------|
 | **Mean**               | **9,383,714**                 | **5,665,361**                 |
 | Standard Error         | 3,887.11                      | 3,406.86                      |
