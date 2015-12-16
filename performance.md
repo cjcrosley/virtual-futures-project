@@ -6,7 +6,7 @@
 
 ##Large Block 
 
-![](image1.png)
+
 
 ![](image2.png)
 
@@ -33,6 +33,8 @@
 | **Minimum**            | **9,339,003**                 | **5,621,056**                 |
 | **Maximum**            | **9,420,047**                 | **5,690,870**                 |
 | Count                  | 39                            | 39                            |
+
+![](image1.png)
 
 ###Roof R-Value
 
