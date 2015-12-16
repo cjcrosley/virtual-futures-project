@@ -13,4 +13,5 @@
    * [Step Nine](step9.md)
    * [Step Ten](step10.md)
 * A Diverse Future
+* A Fractal Community
 
