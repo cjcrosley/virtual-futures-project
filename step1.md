@@ -7,7 +7,7 @@
 ![](images/step1.png)
 
 #### Summary
-This step will define the locations and rotations of the communities in the model. It will also determine the size of the Cell, Room, Block, and Community modules and the underlying iteration pattern used to construct the communities. 
+This step can be used to define the locations and rotations of the communities in the model. It can also be used to determine the size of the Cell, Room, Block, and Community modules and the underlying iteration pattern used to construct the communities. 
 
 ####Inputs (Blue Groups)
 - **Transit Paths** - A curve or list of curves representing the transit network connecting all communities in the model.
