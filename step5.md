@@ -25,8 +25,8 @@ One set of rooms we would like to discard are the rooms along the boundary recta
 
 ![](images/5-street grid.PNG)
 
-### Internal Alleys
-Next we will create internal alleys. This step will involve creating a diagonal internal pathway instead of creating four smaller blocks. We will target this pattern explicitly to the smallest fractal step that would otherwise result in a 4x4 grid. 
+### Internal Pathways
+Next we will create internal pathways. This step will involve creating a diagonal internal pathway instead of creating four smaller blocks. We will target this pattern explicitly to the smallest fractal step that would otherwise result in a 4x4 grid. 
 
 We need to create a diagonal path through the block, but the alley should always be directed towards a point we specify, in this case the center of community. We will find the list index value of the corner point for each block that is closest to the specified point. Shift the list of corner points so that point becomes item 0. Then select items 0 and 2 from the list of points and create a line. Discard all rooms whose center points are within a specified distance of the alley curve. The discarded rooms are shown below.
 
