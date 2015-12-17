@@ -1,10 +1,13 @@
 # Performance
 
+## EUI and Energy Flows
 
 ![](combined.jpg)
 
 
 ##Large Block 
+
+Sefaira Architecture offers a cloud based platform for performance analysis. A key feature of this service 
 ###Rotation Analysis
 
 |                        | *Annual Space Cooling (kBTU)* | *Annual Space Heating (kBTU)* |
