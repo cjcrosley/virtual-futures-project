@@ -2,11 +2,26 @@
 
 ![](combined.jpg)
 
+### Small Block
+A 4 x 4 module urban block.
 
-##Large Block 
+![](block-small.PNG)
 
-Sefaira Architecture offers a cloud based platform for performance analysis. A key feature of this service 
+### Medium Block
+A 8 x 8 module urban block.
+![](block-medium.PNG)
+
+### Large Block
+A 16 x 16 module urban block. 
+![](block-large.PNG)
+
+##Large Block Performance Simulation
+
+Sefaira Architecture offers a cloud based platform for performance analysis. A key feature of this service is the ability to generate response curves that illustrate performance outcomes of a range of values for a specific strategy. Such as the performance results if wall R-values ranged from 10 - 25. These curves are shown below. 
+
 ###Rotation Analysis
+
+Space heating and cooling load changes at ~9 degree intervals of building rotation. 
 
 |                        | *Annual Space Cooling (kBTU)* | *Annual Space Heating (kBTU)* |
 |------------------------|-------------------------------|-------------------------------|
@@ -24,6 +39,8 @@ Sefaira Architecture offers a cloud based platform for performance analysis. A k
 
 ###Roof R-Value
 
+Space heating and cooling load changes for roof R-values from 14.2 to 46.5.
+
 | Roof R-Value (ft<sup>2</sup> h °F/BTU) | Annual Space Cooling (kBTU) | Annual Space Heating (kBTU) | Aggregate (kBTU) | Margin (kBTU) | Marginal Rate (margin/prev) |
 |----------------------------------------|-----------------------------|-----------------------------|------------------|---------------|-----------------------------|
 | 14.2                                   | 9,258,728                   | 6,082,157                   | 15,340,885       |               |                             |
@@ -39,6 +56,8 @@ Sefaira Architecture offers a cloud based platform for performance analysis. A k
 ![](image2.png)
 
 ###Wall R-Value
+
+Space heating and cooling load changes for wall R-values from 9.7 - 27.8.
 
 | Wall R-Value (ft2 h °F/BTU) | Annual Space Cooling (kBTU) | Annual Space Heating (kBTU) | Aggregate (kBTU) | Margin (kBTU) | Marginal Rate (margin/prev) |
 |-----------------------------|-----------------------------|-----------------------------|------------------|---------------|-----------------------------|
@@ -56,6 +75,8 @@ Sefaira Architecture offers a cloud based platform for performance analysis. A k
 
 ###Glazing U-Factor
 
+Space heating and cooling load changes for glazing U-values from 0.69 - 0.14.
+
 | Facade Glazing U-Factor (BTU/ft2 h °F) | Annual Space Cooling (kBTU) | Annual Space Heating (kBTU) | Aggregate (kBTU) | Margin (kBTU) | Marginal Rate (margin/prev) |
 |----------------------------------------|-----------------------------|-----------------------------|------------------|---------------|-----------------------------|
 | 0.69                                   | 9,295,991                   | 6,904,957                   | 16,200,948       |               |                             |
@@ -71,6 +92,8 @@ Sefaira Architecture offers a cloud based platform for performance analysis. A k
 ![](image4.png)
 
 ###Glazing Solar Heat Gain Coefficient (SHGC)
+
+Space heating and cooling load changes for glazing SHGC values from 0.60 - 0.21.
 
 | Facade Glazing SHGC | Annual Space Cooling (kBTU) | Annual Space Heating (kBTU) | Aggregate (kBTU) | Margin (kBTU) | Marginal Rate (margin/prev) |
 |---------------------|-----------------------------|-----------------------------|------------------|---------------|-----------------------------|
@@ -89,6 +112,8 @@ Sefaira Architecture offers a cloud based platform for performance analysis. A k
 
 ###Glazing Overhead Shading
 
+Space heating and cooling load changes for shading extending over glazing areas from 0 ft - 9.8 ft.
+
 | Horizontal Projection (ft) | Annual Space Cooling (kBTU) | Annual Space Heating (kBTU) | Aggregate (kBTU) | Margin (kBTU) | Marginal Rate (margin/prev) |
 |----------------------------|-----------------------------|-----------------------------|------------------|---------------|-----------------------------|
 | 0                          | 9,381,212                   | 5,632,554                   | 15,013,766       |               |                             |
@@ -105,6 +130,10 @@ Sefaira Architecture offers a cloud based platform for performance analysis. A k
 ![](image6.png)
 
 ###Glazing Vertical Shading
+
+Space heating and cooling load changes for shading extending vertically on either side of glazing areas from 0 ft - 9.8 ft. 
+
+Note: the lack of impact of this strategy may be attributed to the large scale of the glazing modeled. 
 
 | Vertical Projection (ft) | Annual Space Cooling (kBTU) | Annual Space Heating (kBTU) | Aggregate (kBTU) | Margin (kBTU) | Marginal Rate (margin/prev) |
 |--------------------------|-----------------------------|-----------------------------|------------------|---------------|-----------------------------|
