@@ -2,7 +2,7 @@
 
 ![](combined.jpg)
 
-The skin / area ratio of the blocks decreases as the modules increase. We can see that as a result the blocks become increasingly internally heat-load dominated.  
+The skin / area ratio of the blocks decreases as the modules increase. We can see that as a result the blocks become increasingly internally heat-load dominated. The small block's EUI is heat load dominated, while the large block is lighting load dominated. 
 
 ### Small Block
 A 4 x 4 module urban block.
