@@ -9,7 +9,7 @@
    * [Step Three](2-generative/step3.md)
    * [Step Four](2-generative/step4.md)
    * [Step Five](2-generative/step5.md)
-   * [Step Six](step6.md)
+   * [Step Six](2-generative/step6.md)
    * [Step Seven](step7.md)
    * [Step Eight](step8.md)
    * [Step Nine](step9.md)
