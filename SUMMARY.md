@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [A Fractal Community](a_fractal_community.md)
+* [A Fractal Community](fractal_community.md)
    * [Performance](performance.md)
 * [A Generative Method](a_generative_method.md)
    * [Step One](step1.md)
