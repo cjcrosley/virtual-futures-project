@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [A Fractal Community](fractal_community.md)
-   * [Performance](performance.md)
+   * [Performance](1-fractal/performance.md)
 * [A Generative Method](generative_method.md)
    * [Step One](step1.md)
    * [Step Two](step2.md)
