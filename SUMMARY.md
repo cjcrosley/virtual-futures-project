@@ -4,7 +4,7 @@
 * [A Fractal Community](fractal_community.md)
    * [Performance](1-fractal/performance.md)
 * [A Generative Method](generative_method.md)
-   * [Step One](step1.md)
+   * [Step One](2-generative/step1.md)
    * [Step Two](step2.md)
    * [Step Three](step3.md)
    * [Step Four](step4.md)
