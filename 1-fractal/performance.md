@@ -1,21 +1,21 @@
 ## EUI and Energy Flows
 
-![](/1-fractal/images/combined.jpg)
+![](/images/combined.jpg)
 
 The skin / area ratio of the blocks decreases as the modules increase. We can see that as a result the blocks become increasingly internally heat-load dominated. The small block's EUI is heat load dominated, while the large block is lighting load dominated. 
 
 ### Small Block
 A 4 x 4 module urban block.
 
-![](block-small.PNG)
+![](/images/block-small.PNG)
 
 ### Medium Block
 A 8 x 8 module urban block.
-![](block-medium.PNG)
+![](/images/block-medium.PNG)
 
 ### Large Block
 A 16 x 16 module urban block. 
-![](block-large.PNG)
+![](/images/block-large.PNG)
 
 ##Large Block Performance Simulation
 
@@ -37,7 +37,7 @@ Space heating and cooling load changes at ~9 degree intervals of building rotati
 | **Maximum**            | **9,420,047**                 | **5,690,870**                 |
 | Count                  | 39                            | 39                            |
 
-![](image1.png)
+![](/images/image1.png)
 
 ###Roof R-Value
 
@@ -55,7 +55,7 @@ Space heating and cooling load changes for roof R-values from 14.2 to 46.5.
 | 42.5                                   | 9,444,059                   | 5,414,962                   | 14,859,021       | (25,086)      | -0.17%                      |
 | 46.5                                   | 9,452,747                   | 5,385,633                   | 14,838,380       | (20,641)      | -0.14%                      |
 
-![](image2.png)
+![](/images/image2.png)
 
 ###Wall R-Value
 
@@ -73,7 +73,7 @@ Space heating and cooling load changes for wall R-values from 9.7 - 27.8.
 | 25.6                        | 9,479,995                   | 5,241,123                   | 14,721,118       | (30,747)      | -0.21%                      |
 | 27.8                        | 9,481,479                   | 5,213,820                   | 14,695,299       | (25,819)      | -0.18%                      |
 
-![](image3.png)
+![](/images/image3.png)
 
 ###Glazing U-Factor
 
@@ -91,7 +91,7 @@ Space heating and cooling load changes for glazing U-values from 0.69 - 0.14.
 | 0.21                                   | 9,626,125                   | 4,616,211                   | 14,242,336       | (324,083)     | -2.22%                      |
 | 0.14                                   | 9,706,055                   | 4,199,683                   | 13,905,738       | (336,598)     | -2.36%                      |
 
-![](image4.png)
+![](/images/image4.png)
 
 ###Glazing Solar Heat Gain Coefficient (SHGC)
 
@@ -110,7 +110,7 @@ Space heating and cooling load changes for glazing SHGC values from 0.60 - 0.21.
 | 0.25                | 9,490,233                   | 5,630,530                   | 15,120,763       | (192,863)     | -1.26%                      |
 | 0.21                | 9,094,897                   | 5,854,538                   | 14,949,435       | (171,328)     | -1.13%                      |
 
-![](image5.png)
+![](/images/image5.png)
 
 ###Glazing Overhead Shading
 
@@ -129,7 +129,7 @@ Space heating and cooling load changes for shading extending over glazing areas 
 | 8.7                        | 8,598,336                   | 6,064,482                   | 14,662,818       | 15,675        | 0.11%                       |
 | 9.8                        | 8,579,457                   | 6,101,431                   | 14,680,888       | 18,070        | 0.12%                       |
 
-![](image6.png)
+![](/images/image6.png)
 
 ###Glazing Vertical Shading
 
@@ -150,4 +150,4 @@ Note: the lack of impact of this strategy may be attributed to the large scale o
 | 8.7                      | 9,307,531                   | 5,673,502                   | 14,981,033       | (3,475)       | -0.02%                      |
 | 9.8                      | 9,299,814                   | 5,677,924                   | 14,977,738       | (3,295)       | -0.02%                      |
 
-![](image7.png)
+![](/images/image7.png)
