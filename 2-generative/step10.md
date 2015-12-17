@@ -26,6 +26,6 @@ The creating of walls requires making merged surfaces of all of the Rooms by Flo
 
 ![](images/10-surfaces.PNG)
 
-![](10-baked.PNG)
+![](images/10-baked.PNG)
 
-![](10-baked2.PNG)
+![](images/10-baked2.PNG)
