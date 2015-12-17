@@ -1,5 +1,3 @@
-# Performance
-
 ## EUI and Energy Flows
 
 ![](combined.jpg)
