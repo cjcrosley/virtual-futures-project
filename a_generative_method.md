@@ -1,5 +1,3 @@
-# A Generative Method
-
 ## Building a Flexibile Model for Urban Visioning 
 ---
 
