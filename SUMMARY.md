@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [A Fractal Community](fractal_community.md)
    * [Performance](performance.md)
-* [A Generative Method](a_generative_method.md)
+* [A Generative Method](generative_method.md)
    * [Step One](step1.md)
    * [Step Two](step2.md)
    * [Step Three](step3.md)
