@@ -80,7 +80,7 @@ $$
 
 In Grasshopper, calculating the Community dimensions looks like this:
 
-
+![](images/1-community.PNG)
 
 And the modules look like this:
 
