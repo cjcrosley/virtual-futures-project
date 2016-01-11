@@ -22,7 +22,7 @@ This step can be used to define the locations and rotations of the communities i
 - **Block Exponent** - The exponent used to calculate the Block size from the Room size.
 - **Community Exponent** - The exponent used to calculate the Community size from the Block size.
 
-
+![](images/1-inputs.PNG)
 
 #### A Primer on Fractals
 
@@ -80,7 +80,7 @@ $$
 
 In Grasshopper, calculating the Community dimensions looks like this:
 
-![](images/Community Dimensions1.png)
+
 
 And the modules look like this:
 
