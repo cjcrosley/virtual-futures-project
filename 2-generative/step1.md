@@ -22,6 +22,8 @@ This step can be used to define the locations and rotations of the communities i
 - **Block Exponent** - The exponent used to calculate the Block size from the Room size.
 - **Community Exponent** - The exponent used to calculate the Community size from the Block size.
 
+
+
 #### A Primer on Fractals
 
 >"A fractal is a natural phenomenon or a mathematical set that exhibits a repeating pattern that displays at every scale. It is also known as expanding symmetry or evolving symmetry" [^1]
