@@ -1,4 +1,4 @@
-## Building a Flexibile Model for Urban Visioning 
+## Building a Flexible Model for Urban Visioning 
 ---
 
 ### Step Four: Step down the fractal grid to create Blocks in an urban grid
